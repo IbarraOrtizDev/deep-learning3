@@ -323,7 +323,7 @@ Este proyecto está desarrollado con fines educativos y de investigación.
 
 ## Referencias
 
-- **Cenicafé**: Centro Nacional de Investigaciones de Café de Colombia
+- **Cenicafé**: [Centro Nacional de Investigaciones de Café de Colombia](https://cenicafe.org/)
 - **Meta Llama**: https://ai.meta.com/llama/
 - **Unsloth**: https://github.com/unslothai/unsloth
 - **Hugging Face**: https://huggingface.co/
