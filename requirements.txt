@@ -1,8 +1,8 @@
-gradio>=4.0.0
-transformers>=4.51.3
 torch>=2.0.0
-peft>=0.18.0
-accelerate>=0.20.0
-safetensors>=0.4.3
+transformers>=4.35.0
+accelerate>=0.25.0
+peft>=0.7.0
 bitsandbytes>=0.41.0
-sentencepiece>=0.1.99
+gradio>=4.0.0
+sentencepiece
+protobuf
